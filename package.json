@@ -1,7 +1,7 @@
 {
   "name": "com.boilerroom.dd211",
   "displayName": "DD 211",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2022.3",
   "description": "DD 211 Drilling machine, prefabs, and Unity-friendly models.",
   "keywords": ["Machine", "DD211", "Mining"],
