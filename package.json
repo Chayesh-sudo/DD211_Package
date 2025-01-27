@@ -15,8 +15,8 @@
   }
   "samples": [
         {
-            "displayName": "Test Scene",
-            "description": "A sample scene demonstrating how to use the framework.",
-            "path": "Samples~/Scenes/Test scene"
+            "displayName": "SCN_DD211",
+            "description": "A sample scene that consists of the LHD 208, DD 211, DS 211.",
+            "path": "Samples~/Scenes/SCN_DD211"
         }
 }
