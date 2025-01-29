@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 8e55de0b3cf159d45a9a67610b32c8eb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 - Default.002
+    second: {fileID: 2100000, guid: 6348dcb1395c3e1468b8dc917974a400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 7771
+    second: {fileID: 2100000, guid: 075b0ce328d4c0a4ea57a6711956e880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: 8a24b817d3101724dbe4e2da3679bd27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DD211
+    second: {fileID: 2100000, guid: 096fb466dad905c41a5b7711450ee6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default.001
+    second: {fileID: 2100000, guid: 83752854f83fc274c8a4477f298e7950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gauges
+    second: {fileID: 2100000, guid: a0abb8cef1de02545b4b87cc8077bc71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Back Trailer- L inside.004
+    second: {fileID: 2100000, guid: 33e0f9f21837a65469ba36fad7abdb4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: f9d4b79cb563f7042a395358a65df6e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1948
+    second: {fileID: 2100000, guid: 474d0dc65e5ff28489c939f91142b1e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1948.002
+    second: {fileID: 2100000, guid: 019ce57886177d746b56ce3743ef20e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1948.003
+    second: {fileID: 2100000, guid: 6edf5b17f2bcb5f4ea0ecd9996365f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2054
+    second: {fileID: 2100000, guid: e0756a0527223c84f866f975b1327bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2055
+    second: {fileID: 2100000, guid: 30c32360144b56c47a927928f569d155, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2093
+    second: {fileID: 2100000, guid: 2238488340aba5f4a8584eef7be1bda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097657881.001
+    second: {fileID: 2100000, guid: 1c47da032ae7fe04591524373475aa88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097657922.001
+    second: {fileID: 2100000, guid: a05958d0a7a9b9e41a9fe79fcbb61aec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097657923.002
+    second: {fileID: 2100000, guid: 50c093c4d51782240839c967579caafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097657970.001
+    second: {fileID: 2100000, guid: afc033645c7c2f549bf1db5dcdea8fed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097657993.001
+    second: {fileID: 2100000, guid: b4cfaeb16acacc74282a4b63332d1afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097657994.001
+    second: {fileID: 2100000, guid: 85bae43c404e25d45a8c1fb7255ef7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2097658008.001
+    second: {fileID: 2100000, guid: d0886d024a9d32046a748161419d6953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #22.001
+    second: {fileID: 2100000, guid: 47fe1521012834f4b8109c063dedca8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #41
+    second: {fileID: 2100000, guid: cbc4b993253b4c0489b9765c7ef25630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7492.001
+    second: {fileID: 2100000, guid: 0c7ec8c138062514fb1a09ef981aefd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7553.001
+    second: {fileID: 2100000, guid: a10eaf29e5d02134eb9d04ea954f288d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7569
+    second: {fileID: 2100000, guid: ed976417f96eb8845918a096e4bfd493, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7620.001
+    second: {fileID: 2100000, guid: c3500209d720b4e4bb14e5acfd908ed0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7668
+    second: {fileID: 2100000, guid: d2b4ffe7978da2f488a70d56b84c69ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7734.002
+    second: {fileID: 2100000, guid: 0d2eac2e97be5804ab9a5ab71f4a7411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7746.002
+    second: {fileID: 2100000, guid: 2b10c0420a42efe4cb6885a7514edacd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7759.002
+    second: {fileID: 2100000, guid: f416ff2572ef7eb41a3abbbd20fa383f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7776.001
+    second: {fileID: 2100000, guid: bdd383957946dc94aad8b519fa18e54d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7777.001
+    second: {fileID: 2100000, guid: e33db57414c96eb4eae3417d18162ea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7778.001
+    second: {fileID: 2100000, guid: d1f134c7a1af60b4082d1fd28574b282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7780.001
+    second: {fileID: 2100000, guid: f99d136a58b49cb42baaec1567a029be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pipe_Roll
+    second: {fileID: 2100000, guid: e35978577d5de1f4982c48bffffb301d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SteeringPanel
+    second: {fileID: 2100000, guid: 16fe52bedc1d69442bee05593c664442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Steel
+    second: {fileID: 2100000, guid: 3fa571e6cac565949b7d3c9f1d94071d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow_Plastic
+    second: {fileID: 2100000, guid: b9e91c10ce313c642907f7fe1c3ee454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engine
+    second: {fileID: 2100000, guid: bfee8efa650873e4ca70d7a69a54deff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main yellow12.001
+    second: {fileID: 2100000, guid: 102f656d60258f848b69b50f71e0c0f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tyre
+    second: {fileID: 2100000, guid: dd4e105ae1da4634db70552291057eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray_Black_Steel
+    second: {fileID: 2100000, guid: 407e874520ff1f747885ae1d546438b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray_Light
+    second: {fileID: 2100000, guid: 4782b915bd7c86d41a179edaab624ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray_Mat_Blue_Misc
+    second: {fileID: 2100000, guid: 3af46e19444b06c43906e3dca454bd01, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 211 steering panel
+    second: {fileID: 2800000, guid: d367553b8b5c9204b9fa8639127dcf6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ANSUL_texture_01
+    second: {fileID: 2800000, guid: 48ec321c7b2f0c34cad6ded6e20cfc5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ansul 1
+    second: {fileID: 2800000, guid: 019b3c8773608844f8bafc671cfbf2a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas Metallic
+    second: {fileID: 2800000, guid: fdcb98ad1dec57440945d4227f746b18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas Normal
+    second: {fileID: 2800000, guid: d868d8279a11a1e4d80b65f93142a5d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas Rough
+    second: {fileID: 2800000, guid: 9152050b8c63baf41bc30159d6ea43ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas base
+    second: {fileID: 2800000, guid: bcb697a82c476054086eae1ec767451c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DD210 drilling panel
+    second: {fileID: 2800000, guid: 72808937f08ae814d9a73c5b7719c9ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: QN Panel
+    second: {fileID: 2800000, guid: 4de369a225b9aa941b37e1b0b62f869c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roll_BaseColor
+    second: {fileID: 2800000, guid: 9f0cb0a45f64c97459dfa1503e807573, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roll_Normal
+    second: {fileID: 2800000, guid: 39ed81ec522232a4c90deaa26a410a8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Back Trailer- L inside_BaseColor
+    second: {fileID: 2800000, guid: 31ddf477bc656b049bf09f9f72f1b7fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tire_BaseColor
+    second: {fileID: 2800000, guid: ffbcbfa3373f6904e9f7a6701f3fcf58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tire_Normal
+    second: {fileID: 2800000, guid: a7924986fb1526141a1b46e6221465a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WarningLabels_208_2
+    second: {fileID: 2800000, guid: f19ad64d560e06f45b78ddb1640fea83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: guages
+    second: {fileID: 2800000, guid: 3cefcd986f4a92b44b136708acb06363, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: signs_Extra
+    second: {fileID: 2800000, guid: a2cb96ba082c3834895b8cfaaa1cd907, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
